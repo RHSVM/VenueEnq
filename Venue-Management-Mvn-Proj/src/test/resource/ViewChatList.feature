@@ -30,5 +30,5 @@ Feature: I want to add a and View Chat List to an exisiting Enquiry
     Given I made changes to my local file
     When I commit to my local ditory
     And I pull and commit to my repository
-    Then my file should be saved in my Repository
+    Then
     
