@@ -24,3 +24,11 @@ Feature: I want to add a and View Chat List to an exisiting Enquiry
     And I have an existing chat with the sales team
     And I log into the sytem to see the list of chat thats has been done in the past
     Then I should be able to retrieve the list of all the chat made on an enquiry
+    
+    @Testing
+    Scenerio: I want to test GitHub
+    Given I made changes to my local file
+    When I commit to my local ditory
+    And I pull and commit to my repository
+    Then my file should be saved in my Repository
+    
