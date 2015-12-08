@@ -36,7 +36,7 @@ public class DateTimePicker {
         driver.get("https://www.google.com/");
         
        // driver.get("http://vmcrmuat:9010/#/cfsg/courseadmin/courses/3");
-        // System.out.println("this fir testing purpose only Peace Uwah ")
+        // System.out.println("this fir testing purpose only ")
  
          
  
